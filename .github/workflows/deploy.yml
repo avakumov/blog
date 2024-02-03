@@ -17,10 +17,10 @@ jobs:
     runs-on: self-hosted
     needs: checkout
     steps:
-      - name: Stop and remove containers, networks
+      - name: Docker compose down 
         run: docker-compose down
-      - name: Remove unused data
-        run: docker system prune -a -f
+      # - name: Remove unused data
+      #   run: docker system prune -a -f
   deploy-docker-compose:
     runs-on: self-hosted
     needs: prepare-environment
