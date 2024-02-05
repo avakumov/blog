@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://avakumov.ru/", // replace this with your deployed domain
   author: "Vladimir Avakumov",
   desc: "Personal blog",
-  title: "Avakumov Vladimir. Blog.",
+  title: "Avakumov dev",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 6,
@@ -34,7 +34,7 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:avakdev@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "YouTube",
@@ -74,8 +74,8 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Telegram",
-    href: "https://github.com/VladimirAvakumov",
+    href: "https://t.me/VladimirAvakumov",
     linkTitle: `${SITE.title} on Telegram`,
-    active: false,
+    active: true,
   },
 ];

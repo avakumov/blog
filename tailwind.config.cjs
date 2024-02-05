@@ -16,7 +16,6 @@ module.exports = {
     screens: {
       sm: "640px",
     },
-
     extend: {
       textColor: {
         skin: {
@@ -56,10 +55,11 @@ module.exports = {
       fontFamily: {
         mono: ["IBM Plex Mono", "monospace"],
       },
-
       typography: {
         DEFAULT: {
           css: {
+            fontSize: '1rem',
+            lineHeight: '1.5rem',
             pre: {
               color: false,
             },
