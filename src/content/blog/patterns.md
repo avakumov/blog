@@ -5,7 +5,7 @@ modDatetime: 2023-12-21T09:12:47.400Z
 title: Паттерны программирования 
 slug: patterns 
 featured: true
-draft: false
+draft: true 
 tags:
   - паттерны 
 description: Рассматриваем основные паттерны программирования.

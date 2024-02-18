@@ -2,35 +2,31 @@
 layout: ../layouts/AboutLayout.astro
 title: "Обо мне"
 ---
-Обо мне
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Доброго времени года, друг!
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Если тебе интересно мое резюме [скачай](http://)
+
+На данном этапе своей жизни я fullstack-разработчик. По образованию я физик. Закончил физический факультет [Удмуртского государственного университета](https://udsu.ru) в недалеком 2007 году.
+
+В своей трудовой жизни я работал:
+- учителем физики (6 лет) 
+- инженером электросвязи (6 лет)
+- системным администратор (1 год)
+- веб-программистом (2,5 года)
+
+После университета меня заинтересовала тема программирования. Но шел я к ней долго. 
+Основной мой стек основан на языке **javascript: typescript, react, mui, styled-components, redux, redux-toolkit, react-hook-form, jquery, node, express, nestjs, prisma, postgres, mongoDB, linux**. 
+
+Предпочитаю работать в линуксе. В данный момент использую для рабочей станции linux manjaro. Сервер на linux ubuntu. Являюсь фанатом командной строки и ради интереса перешел на [neovim](https://neovim.io/) в качестве IDE. Пока меня устраивает тот функционал, который он дает. Мой [конфиг](https://github.com/avakumov/neovim-config) для него.
+
+
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
 ## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
 
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
 Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
