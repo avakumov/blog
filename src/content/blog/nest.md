@@ -1,9 +1,9 @@
 ---
 pubDatetime: 2024-01-30T15:22:00Z
-title: Основы nest.js
+title: Основы NestJS
 slug: nestjs-docs
 tags:
- - nest.js
+ - nestjs
 description: Рассматриваются основные концепции фреймворка nest.js
 ---
 

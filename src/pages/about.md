@@ -5,7 +5,7 @@ title: "Обо мне"
 
 Доброго времени года, друг!
 
-Если тебе интересно мое резюме [скачай](http://)
+Если тебе интересно мое [резюме](http://).
 
 На данном этапе своей жизни я fullstack-разработчик. По образованию я физик. Закончил физический факультет [Удмуртского государственного университета](https://udsu.ru) в недалеком 2007 году.
 
@@ -26,7 +26,6 @@ title: "Обо мне"
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Features
+## Связаться
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Связаться со мной можно по [телеграм](https://t.me/VladimirAvakumov) или [вк](https://vk.com/v.avakumov)

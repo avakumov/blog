@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://avakumov.ru/", // replace this with your deployed domain
   author: "Vladimir Avakumov",
   desc: "Personal blog",
-  title: "Avakumov dev",
+  title: "avakumov.ru",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 6,
